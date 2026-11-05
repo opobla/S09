@@ -9,5 +9,6 @@ int main(int argc, char** argv) {
         printf("Argument [%d] is  %s \n", i, argv[i]);
     }
 
+    printf("Bye!\n");
     return 0;
 }

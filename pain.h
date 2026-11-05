@@ -1,1 +1,1 @@
-int say_hello_mark();
+int say_hello_mark(void);

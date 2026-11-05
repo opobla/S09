@@ -1,1 +1,1 @@
-int say_hello_jjg();
+int say_hello_jjg(void);

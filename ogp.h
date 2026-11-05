@@ -1,1 +1,1 @@
-int say_hello_ogp();
+int say_hello_ogp(void);
